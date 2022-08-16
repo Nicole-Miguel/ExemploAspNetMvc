@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IFSP\\Desktop\\sp3044513\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj": {}
+    "C:\\Users\\IFSP\\Downloads\\sp3044513\\ExemploAspNetMvc\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IFSP\\Desktop\\sp3044513\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj": {
+    "C:\\Users\\IFSP\\Downloads\\sp3044513\\ExemploAspNetMvc\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\sp3044513\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj",
+        "projectUniqueName": "C:\\Users\\IFSP\\Downloads\\sp3044513\\ExemploAspNetMvc\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj",
         "projectName": "ExemploAspNetMvc",
-        "projectPath": "C:\\Users\\IFSP\\Desktop\\sp3044513\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj",
+        "projectPath": "C:\\Users\\IFSP\\Downloads\\sp3044513\\ExemploAspNetMvc\\ExemploAspNetMvc\\ExemploAspNetMvc.csproj",
         "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IFSP\\Desktop\\sp3044513\\ExemploAspNetMvc\\obj\\",
+        "outputPath": "C:\\Users\\IFSP\\Downloads\\sp3044513\\ExemploAspNetMvc\\ExemploAspNetMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
