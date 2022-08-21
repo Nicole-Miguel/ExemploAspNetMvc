@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Multiplicar";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Operação Matemática Multiplicar</h1>
+    <p>Utilize o formulário abaixo para multiplicar dois números</p>
+
+    <form action="ResultadoMultiplicacao" method="post">
+        <label for="numero1">Número 1</label>
+        <br>
+        <input type="text" name="numero1" id="numero1">
+        <br><br>
+        <label for="numero2">Número 2</label>
+        <br>
+        <input type="text" name="numero2" id="numero2">
+        <br><br>
+        <input type="submit" value="Multiplicar">
+        
+        <!-- <button type="submit">Somar</button> -->
+    </form>
+</div>

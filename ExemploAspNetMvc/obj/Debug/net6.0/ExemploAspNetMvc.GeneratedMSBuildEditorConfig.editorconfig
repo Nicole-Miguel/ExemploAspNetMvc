@@ -8,45 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExemploAspNetMvc
 build_property.RootNamespace = ExemploAspNetMvc
-build_property.ProjectDir = C:\Users\IFSP\Downloads\sp3044513\ExemploAspNetMvc\ExemploAspNetMvc\
+build_property.ProjectDir = C:\Users\Nicole\Documents\LP3\ExemploAspNetMvc\ExemploAspNetMvc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\IFSP\Downloads\sp3044513\ExemploAspNetMvc\ExemploAspNetMvc
+build_property.MSBuildProjectDirectory = C:\Users\Nicole\Documents\LP3\ExemploAspNetMvc\ExemploAspNetMvc
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/IFSP/Downloads/sp3044513/ExemploAspNetMvc/ExemploAspNetMvc/Views/Home/Formulario.cshtml]
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/Home/Formulario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtdWxhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IFSP/Downloads/sp3044513/ExemploAspNetMvc/ExemploAspNetMvc/Views/Home/Index.cshtml]
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IFSP/Downloads/sp3044513/ExemploAspNetMvc/ExemploAspNetMvc/Views/Home/PrimeiraAction.cshtml]
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/Home/PrimeiraAction.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmltZWlyYUFjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IFSP/Downloads/sp3044513/ExemploAspNetMvc/ExemploAspNetMvc/Views/Home/Privacy.cshtml]
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IFSP/Downloads/sp3044513/ExemploAspNetMvc/ExemploAspNetMvc/Views/Shared/Error.cshtml]
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/OperacoesMatematicas/Dividir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzTWF0ZW1hdGljYXNcRGl2aWRpci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/OperacoesMatematicas/Multiplicar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzTWF0ZW1hdGljYXNcTXVsdGlwbGljYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/OperacoesMatematicas/ResultadoDivisao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzTWF0ZW1hdGljYXNcUmVzdWx0YWRvRGl2aXNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/OperacoesMatematicas/ResultadoMultiplicacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzTWF0ZW1hdGljYXNcUmVzdWx0YWRvTXVsdGlwbGljYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/OperacoesMatematicas/ResultadoSoma.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzTWF0ZW1hdGljYXNcUmVzdWx0YWRvU29tYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/OperacoesMatematicas/ResultadoSubtracao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzTWF0ZW1hdGljYXNcUmVzdWx0YWRvU3VidHJhY2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/OperacoesMatematicas/Somar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzTWF0ZW1hdGljYXNcU29tYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/OperacoesMatematicas/Subtrair.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjb2VzTWF0ZW1hdGljYXNcU3VidHJhaXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IFSP/Downloads/sp3044513/ExemploAspNetMvc/ExemploAspNetMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IFSP/Downloads/sp3044513/ExemploAspNetMvc/ExemploAspNetMvc/Views/_ViewImports.cshtml]
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IFSP/Downloads/sp3044513/ExemploAspNetMvc/ExemploAspNetMvc/Views/_ViewStart.cshtml]
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/IFSP/Downloads/sp3044513/ExemploAspNetMvc/ExemploAspNetMvc/Views/Shared/_Layout.cshtml]
+[C:/Users/Nicole/Documents/LP3/ExemploAspNetMvc/ExemploAspNetMvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2kjl7l95nn
