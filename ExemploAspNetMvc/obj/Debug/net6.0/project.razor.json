@@ -16323,6 +16323,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Nicole\\Documents\\LP3\\ExemploAspNetMvc\\ExemploAspNetMvc\\Views\\Calculadora\\Operacao.cshtml",
+      "TargetPath": "Views\\Calculadora\\Operacao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Nicole\\Documents\\LP3\\ExemploAspNetMvc\\ExemploAspNetMvc\\Views\\OperacoesMatematicas\\ResultadoSoma.cshtml",
       "TargetPath": "Views\\OperacoesMatematicas\\ResultadoSoma.cshtml",
       "FileKind": "mvc"
@@ -16370,6 +16375,11 @@
     {
       "FilePath": "c:\\Users\\Nicole\\Documents\\LP3\\ExemploAspNetMvc\\ExemploAspNetMvc\\Views\\Home\\PrimeiraAction.cshtml",
       "TargetPath": "Views\\Home\\PrimeiraAction.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Nicole\\Documents\\LP3\\ExemploAspNetMvc\\ExemploAspNetMvc\\Views\\Calculadora\\Resultado.cshtml",
+      "TargetPath": "Views\\Calculadora\\Resultado.cshtml",
       "FileKind": "mvc"
     },
     {
