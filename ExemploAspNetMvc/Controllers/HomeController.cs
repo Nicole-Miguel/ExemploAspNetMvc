@@ -9,6 +9,7 @@ public class UserRequest
 {
     public string Nome { get; set; }
     public string Email { get; set; }
+    public string Senha {get; set; }
 }
 
 public class HomeController : Controller
@@ -40,9 +41,9 @@ public class HomeController : Controller
         return $"Chegou aqui {q} para {nome}";
     }
 
-    public string TesteFormData([FromForm] UserRequest userRequest, [FromHeader] string valor) 
+    public string TesteFormData([FromForm] UserRequest userRequest) 
     {
-        return $"Nome: {userRequest.Nome}, Email: {userRequest.Email}, valor: {valor}";
+        return $"Nome: {userRequest.Nome}, Email: {userRequest.Email}, Senha: {userRequest.Senha}";
     }
 
     public IActionResult Formulario()
